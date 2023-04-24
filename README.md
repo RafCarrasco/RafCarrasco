@@ -1,4 +1,4 @@
-(https://github-readme-stats.vercel.app/api?username=RafCarrasco&hide=contribs,prs)
+https://github-readme-stats.vercel.app/api?username=RafCarrasco&hide=contribs,prs
 
 <!--
 **RafCarrasco/RafCarrasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
