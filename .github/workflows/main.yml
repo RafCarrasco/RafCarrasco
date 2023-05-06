@@ -3,7 +3,6 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
   name: Generate Snake
-  uses: Platane/snk@v2.2.1
 
 # Controls when the action will run. This action runs every 6 hours.
 
