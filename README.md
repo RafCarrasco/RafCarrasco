@@ -37,7 +37,9 @@ crescer profissionalmente.
 
 <h3>Interesse pessoais</h3>
 
--Aprender novas habilidades em tecnologia e programação 
+-Aprender novas habilidades
+    
+-Viajar 
  
 -Jogos de computador 
  
