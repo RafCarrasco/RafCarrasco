@@ -8,7 +8,7 @@
 <h2>Sobre</h2>
 <strong>Nome:</strong> Rafael Alves Carrasco 
 <br>
-<strong>Idade:</strong> 21 anos 
+<strong>Idade:</strong> 22 anos 
 
 <strong>Formação:</strong> Estudante de Ciências da Computação no Instituto Mauá de Tecnologia, atualmente no Terceiro semestre
 
