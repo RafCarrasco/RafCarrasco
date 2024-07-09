@@ -14,7 +14,7 @@
 
 <h3>Resumo profissional:</h3>
 
-Sou um estudante dedicado de Ciências da Computação, apaixonado por tecnologia e
+Estudante dedicado de Ciências da Computação, apaixonado por tecnologia e
 pelo mundo digital. Tenho grande interesse em desenvolver minhas habilidades em
 programação e outras áreas da tecnologia, como inteligência artificial. Estou
 aberto a oportunidades de trabalho que me permitam aplicar meus conhecimentos e
