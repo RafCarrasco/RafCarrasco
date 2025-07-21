@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I’m a passionate **Computer Science student** currently focusing on **fullstack development** using technologies like **Flutter**, **Firebase**, and **Node.js**. I enjoy building real-world web and mobile applications with a focus on **performance**, **data integration**, and **user experience**.
+I’m a passionate **Computer Science student** currently focusing on **fullstack development** using technologies like **Flutter**, and **Node.js**. I enjoy building real-world web and mobile applications with a focus on **performance**, **data integration**, and **user experience**.
 
 My journey started with a strong technical foundation, including a technical high school diploma in IT, and has been expanded through practical experience and specialized courses in **Data Science**, **Power BI**, **cybersecurity**, and **hybrid development**.
 
