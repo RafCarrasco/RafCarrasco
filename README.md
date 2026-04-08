@@ -42,14 +42,6 @@ I believe that **technology is a tool to solve real problems**, and this mindset
 - REST APIs, SQL, UI/UX design, GitHub
 ---
 
-<div align='center'>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafCarrasco&layout=compact&theme=transparent">
-</div>
-
----
-
-
 ### 📫 Let’s connect!
 
 If you’re looking for a passionate fullstack developer to join your team or collaborate on exciting projects, feel free to reach out!
