@@ -1,11 +1,10 @@
 ### 👋 About Me
 
-I’m a passionate **Computer Science student** currently focusing on **fullstack development** using technologies like **Flutter**, and **Node.js**. I enjoy building real-world web and mobile applications with a focus on **performance**, **data integration**, and **user experience**.
+Fullstack Developer focused on building scalable web and mobile applications using Flutter and Node.js. Strong experience with data integration, APIs, and performance-driven solutions.
 
-My journey started with a strong technical foundation, including a technical high school diploma in IT, and has been expanded through practical experience and specialized courses in **Data Science**, **Power BI**, **cybersecurity**, and **hybrid development**.
+Background in Computer Science with a technical foundation in IT, complemented by hands-on experience in real-world projects and knowledge in Data Science, Power BI, cybersecurity, and hybrid development.
 
-I believe that **technology is a tool to solve real problems**, and this mindset guides my continuous growth through collaborative and impactful projects.
-
+Driven by solving real-world problems through technology, with a focus on clean architecture, usability, and efficient systems.
 <br>
 
 ### 🚀 Tech Stack
