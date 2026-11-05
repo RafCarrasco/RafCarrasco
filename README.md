@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Technical Architect at **Procurement Garage's AI Innovation team**, focused on building digital products and intelligent automations applied to complex business operations.
+AI Consultant at **Procurement Garage's AI Innovation team**, focused on building digital products and intelligent automations applied to complex business operations.
 
 I work with AI agents, MCP Servers, and LLMs in real-world corporate workflows, alongside full-stack development using Flutter and Node.js. Passionate about solving real problems through clean architecture and modern technology.
 
